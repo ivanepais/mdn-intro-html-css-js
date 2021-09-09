@@ -1,0 +1,61 @@
+/*body {
+	background-color: #1C1F25;
+}*/
+
+h1 {
+	/*font-family: 'Open Sans', sans-serif */; 
+	color: yellow;
+}
+
+/* h2,h3,h4,p,ul,ol,a {
+	font-family: 'Open Sans', sans-serif; color: #ffffff; */
+}
+
+strong {
+	color: orange;
+}
+/* img {height: 300; width: 480;} */
+
+html {
+	font-size: 20px; font-family: 'Roboto', sans-serif; 
+	color: #ffffff;
+} 
+/*con esto no hace falta en de los elementos anteriores y el color*/
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+  /*text-shadow: 1px 1px 2px orange; */
+
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: orange;
+}
+
+body {
+  width: 600px;
+  margin: 10% auto; /*era 0 auto*/
+  background-color: blue;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+  text-align: center
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: purple;
+  text-shadow: 3px 3px 1px black; 
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
